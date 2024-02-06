@@ -1,4 +1,4 @@
-import FadeIn from "../../FadeIn";
+import FadeIn from "../../FadeIn.tsx";
 import "./style.css";
 
 export const Index = (): JSX.Element => {
