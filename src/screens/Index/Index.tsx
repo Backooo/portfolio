@@ -161,7 +161,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="jupyter-logo"
                   alt="Jupyter logo"
-                  src="/jupyter-logo-1.png"
+                  src="/portfolio/jupyter-logo-1.png"
                 />
                 <div className="text-wrapper-8">Jupyter Notebook</div>
               </div>
@@ -169,7 +169,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="img"
                   alt="Microsoft excel logo"
-                  src="/microsoft-excel-logo--2013-2019--1.png"
+                  src="/portfolio/microsoft-excel-logo--2013-2019--1.png"
                 />
                 <div className="text-wrapper-8">Excel and Office</div>
               </div>
@@ -177,7 +177,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="element-figma-logo"
                   alt="Figma logo"
-                  src="/1667px-figma-logo-1.png"
+                  src="/portfolio/1667px-figma-logo-1.png"
                 />
                 <div className="text-wrapper-2">Figma</div>
               </div>
@@ -185,7 +185,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="img"
                   alt="Git icon"
-                  src="/git-icon-1.png"
+                  src="/portfolio/git-icon-1.png"
                 />
                 <div className="text-wrapper-8">Git</div>
               </div>
@@ -193,7 +193,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="latex-project-logo"
                   alt="Latex project logo"
-                  src="/latex.svg"
+                  src="/portfolio/latex.svg"
                 />
                 <div className="text-wrapper-8">LaTeX</div>
               </div>
@@ -201,7 +201,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="element-SAP-logo"
                   alt="Element SAP logo"
-                  src="/2560px-sap-logo-1.png"
+                  src="/portfolio/2560px-sap-logo-1.png"
                 />
                 <div className="text-wrapper-2">SAP NetWeaver Database</div>
               </div>
@@ -209,7 +209,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="img"
                   alt="Pngimg"
-                  src="/photoshop.png"
+                  src="/portfolio/photoshop.png"
                 />
                 <div className="text-wrapper-8">Adobe Photoshop</div>
               </div>
@@ -217,7 +217,7 @@ export const Index = (): JSX.Element => {
                 <img
                   className="img"
                   alt="Davinci resolve"
-                  src="/Davinci.png"
+                  src="/portfolio/Davinci.png"
                 />
                 <div className="text-wrapper-8">DaVinci Resolve</div>
               </div>
@@ -240,7 +240,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-2"
                         alt="Sqlite square icon"
-                        src="/sqlite-square-icon-1.png"
+                        src="/portfolio/sqlite-square-icon-1.png"
                       />
                       <div className="text-wrapper-10">SQLite</div>
                     </div>
@@ -254,7 +254,7 @@ export const Index = (): JSX.Element => {
                         <img
                           className="img-3"
                           alt="Javascript logo"
-                          src="/javascript-logo-1.png"
+                          src="/portfolio/javascript-logo-1.png"
                         />
                         <div className="text-wrapper-11">JavaScript</div>
                       </div>
@@ -265,7 +265,7 @@ export const Index = (): JSX.Element => {
                         <img
                           className="img-4"
                           alt="React icon"
-                          src="/react-icon-1@2x.png"
+                          src="/portfolio/react-icon-1@2x.png"
                         />
                         <div className="text-wrapper-2">React</div>
                       </div>
@@ -277,7 +277,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-2"
                         alt="Typescript logo"
-                        src="/typescript-logo-2020-1.png"
+                        src="/portfolio/typescript-logo-2020-1.png"
                       />
                       <div className="text-wrapper">TypeScript</div>
                     </div>
@@ -290,7 +290,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-3"
                         alt="Java"
-                        src="/java-1.png"
+                        src="/portfolio/java-1.png"
                       />
                       <div className="text-wrapper-11">Java</div>
                     </div>
@@ -301,7 +301,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-2"
                         alt="Scala"
-                        src="/scala-1.png"
+                        src="/portfolio/scala-1.png"
                       />
                       <div className="text-wrapper-2">Scala</div>
                     </div>
@@ -319,7 +319,7 @@ export const Index = (): JSX.Element => {
                               <img
                                 className="img-4"
                                 alt="Numpy"
-                                src="/numpy-1.svg"
+                                src="/portfolio/numpy-1.svg"
                               />
                               <div className="text-wrapper-12">NumPy</div>
                             </div>
@@ -331,7 +331,7 @@ export const Index = (): JSX.Element => {
                             <img
                               className="img-4"
                               alt="Element scikit learn"
-                              src="/2560px-scikit-learn-logo-small-1@2x.png"
+                              src="/portfolio/2560px-scikit-learn-logo-small-1@2x.png"
                             />
                             <div className="text-wrapper-10">SciKit</div>
                           </div>
@@ -343,7 +343,7 @@ export const Index = (): JSX.Element => {
                             <img
                               className="element-pandas-mark"
                               alt="pandas mark"
-                              src="/1200px-pandas-mark-1@2x.png"
+                              src="/portfolio/1200px-pandas-mark-1@2x.png"
                             />
                             <div className="text-wrapper-13">Pandas</div>
                           </div>
@@ -356,7 +356,7 @@ export const Index = (): JSX.Element => {
                         <img
                           className="img-2"
                           alt="Element matplotlib"
-                          src="/1200px-matplotlib-icon-1.png"
+                          src="/portfolio/1200px-matplotlib-icon-1.png"
                         />
                         <div className="text-wrapper-14">Matplotlib</div>
                       </div>
@@ -366,7 +366,7 @@ export const Index = (): JSX.Element => {
                     <img
                       className="img"
                       alt="Python icon"
-                      src="/python-icon-1.png"
+                      src="/portfolio/python-icon-1.png"
                     />
                     <div className="text-wrapper-11">Python</div>
                   </div>
@@ -377,7 +377,7 @@ export const Index = (): JSX.Element => {
                     <img
                       className="img-2"
                       alt="Haskell"
-                      src="/haskell-1.png"
+                      src="/portfolio/haskell-1.png"
                     />
                     <div className="text-wrapper-15">Haskell</div>
                   </div>
@@ -388,7 +388,7 @@ export const Index = (): JSX.Element => {
                     <img
                       className="img-2"
                       alt="Prolog"
-                      src="/prolog.png"
+                      src="/portfolio/prolog.png"
                     />
                     <div className="frame-43">
                       <div className="text-wrapper-15">Prolog</div>
@@ -402,7 +402,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-2"
                         alt="HTML"
-                        src="/html5-icon-1.png"
+                        src="/portfolio/html5-icon-1.png"
                       />
                       <div className="text-wrapper-16">HTML</div>
                     </div>
@@ -415,7 +415,7 @@ export const Index = (): JSX.Element => {
                       <img
                         className="img-2"
                         alt="Css icon"
-                        src="/css-icon-1.png"
+                        src="/portfolio/css-icon-1.png"
                       />
                       <div className="text-wrapper-16">CSS</div>
                     </div>
@@ -507,7 +507,7 @@ export const Index = (): JSX.Element => {
             <img
               className="line"
               alt="Line"
-              src="/line-1.png"
+              src="/portfolio/line-1.png"
             />
             <div className="work-experience-wrapper">
               <div className="text-wrapper-20">WORK EXPERIENCE</div>
@@ -566,44 +566,44 @@ export const Index = (): JSX.Element => {
           <img
             className="line-2"
             alt="Line"
-            src="/line-2.png"
+            src="/portfolio/line-2.png"
           />
         </div>
         </FadeIn>
         <img
           className="line-3"
           alt="Line"
-          src="/line-3.png"
+          src="/portfolio/line-3.png"
         />
         <img
           className="line-4"
           alt="Line"
-          src="/line-4.png"
+          src="/portfolio/line-4.png"
         />
         <img
           className="line-5"
           alt="Line"
-          src="/line-5.png"
+          src="/portfolio/line-5.png"
         />
         <img
           className="line-6"
           alt="Line"
-          src="/line-6.png"
+          src="/portfolio/line-6.png"
         />
         <img
           className="line-7"
           alt="Line"
-          src="/line-7.png"
+          src="/portfolio/line-7.png"
         />
         <img
           className="line-8"
           alt="Line"
-          src="/line-8.png"
+          src="/portfolio/line-8.png"
         />
         <img
           className="line-9"
           alt="Line"
-          src="/line-9.png"
+          src="/portfolio/line-9.png"
         />
         <a href="https://youtu.be/no_elVGGgW8" target="_blank" rel="noopener noreferrer">
         <div className="flexcontainer-4">
@@ -688,27 +688,27 @@ export const Index = (): JSX.Element => {
             <img
               className="PB"
               alt="Pb"
-              src="/profile-picture@2x.png"
+              src="/portfolio/profile-picture@2x.png"
             />
             <div className="title">
               <a href="https://github.com/Backooo" target="_blank" rel="noopener noreferrer">
                 <img
                   className="github"
                   alt="Github"
-                  src="/github.svg"
+                  src="/portfolio/github.svg"
                 />
               </a>
               <a href="https://www.linkedin.com/in/emin-bayat/" target="_blank" rel="noopener noreferrer">
                 <img
                   className="linked-in" alt="Linked in"
-                  src="/linkedin.svg"
+                  src="/portfolio/linkedin.svg"
                 />
               </a>
               <a href="/CihanEminBayatResume.pdf" target="_blank" rel="noopener noreferrer">
                 <img
                   className="resume"
                   alt="Resume"
-                  src="/resume.svg"
+                  src="/portfolio/resume.svg"
                 />
               </a>
               <div className="text-wrapper-29">-Emin Bayat-</div>
@@ -717,12 +717,12 @@ export const Index = (): JSX.Element => {
               <img
                 className="line-10"
                 alt="Line"
-                src="/line-10.png"
+                src="/portfolio/line-10.png"
               />
               <img
                 className="line-11"
                 alt="Line"
-                src="/line-11.png"
+                src="/portfolio/line-11.png"
               />
             </div>
           </div>
