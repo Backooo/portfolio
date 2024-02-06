@@ -1,0 +1,30 @@
+:root {
+    --variable-collection-black: rgba(0, 0, 0, 1);
+    --variable-collection-crayola-orange: rgba(255, 116, 56, 1);
+    --variable-collection-ghost-white: rgba(244, 244, 249, 1);
+    --variable-collection-raisin-black: rgba(27, 23, 37, 1);
+    --variable-collection-verdigris: rgba(91, 174, 174, 1);
+    --variable-collection-white: rgba(255, 255, 255, 1);
+  }
+
+  body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  *, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .backgroundColor {
+    background-color: var(--variable-collection-raisin-black);
+    min-height: 100vh;
+    width: 100%;
+    color: var(--variable-collection-raisin-black);
+    position: absolute;
+    overflow: hidden;
+  }
