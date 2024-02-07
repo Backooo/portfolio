@@ -674,10 +674,10 @@ export const Index = (): JSX.Element => {
             <div className="about-content">
               <div className="welcome">
                 <p className="text-wrapper-27">Hello and welcome to my space! I’m Emin Bayat!</p>
-                <p className="lorem-ipsum-dolor">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                <p className="hobbies">
+                  A self taught hobby photographer, wannabe series critic and part time bookworm.
                   <br />
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  I also enjoy going for walks, solving little puzzles and playing video games.
                 </p>
               </div>
               <div className="keep-scrolling">

@@ -1366,7 +1366,7 @@ body::-webkit-scrollbar {
     height: 140px;
     left: 0;
     position: absolute;
-    top: -1px;
+    top: 0px;
     width: 209px;
   }
   
@@ -1418,7 +1418,7 @@ body::-webkit-scrollbar {
     top: -1px;
   }
   
-  .index .lorem-ipsum-dolor {
+  .index .hobbies {
     color: var(--variable-collection-ghost-white);
     font-family: "Roboto Slab", Helvetica;
     font-size: 15px;
@@ -1434,7 +1434,7 @@ body::-webkit-scrollbar {
     height: 91px;
     left: 0;
     position: absolute;
-    top: 84px;
+    top: 125px;
     width: 454px;
   }
   
