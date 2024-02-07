@@ -704,7 +704,7 @@ export const Index = (): JSX.Element => {
                   src="/portfolio/linkedin.svg"
                 />
               </a>
-              <a href="/CihanEminBayatResume.pdf" target="_blank" rel="noopener noreferrer">
+              <a href="/portfolio/CihanEminBayatResume.pdf" target="_blank" rel="noopener noreferrer">
                 <img
                   className="resume"
                   alt="Resume"
