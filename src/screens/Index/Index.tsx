@@ -26,7 +26,9 @@ export const Index = (): JSX.Element => {
             <div className="frame-4">
               <div className="frame-5">
                 <div className="text-wrapper-3">February 2024</div>
+                <a href="https://github.com/Backooo/portfolio" target="_blank" rel="noopener noreferrer">
                 <div className="text-wrapper-4">Portfolio</div>
+                </a>
               </div>
               <div className="div-wrapper">
                 <p className="p">
@@ -49,7 +51,9 @@ export const Index = (): JSX.Element => {
               <div className="frame-4">
                 <div className="frame-5">
                   <div className="text-wrapper-3">December 2023</div>
+                  <a href="https://github.com/Backooo/recognize_emotions" target="_blank" rel="noopener noreferrer">
                   <div className="text-wrapper-4">Emotion Recognizer</div>
+                  </a>
                 </div>
                 <p className="text-wrapper-7">
                   Very small Python project that leverages the webcam to identify emotions, utilizing OpenCV for face
@@ -71,7 +75,9 @@ export const Index = (): JSX.Element => {
             <div className="frame-6">
               <div className="frame-5">
                 <div className="text-wrapper-3">November 2023</div>
+                <a href="https://github.com/Backooo/spotify_data_analysis" target="_blank" rel="noopener noreferrer">
                 <div className="text-wrapper-4">Spotify Data Analysis</div>
+                </a>
               </div>
               <p className="text-wrapper-7">
                 This project offers a custom Spotify Wrapped experience, allowing users to visualize their top artists,
@@ -91,7 +97,9 @@ export const Index = (): JSX.Element => {
             <div className="frame-4">
               <div className="frame-5">
                 <div className="text-wrapper-3">May 2023</div>
+                <a href="https://github.com/Backooo/Weather-Station-Database-Project" target="_blank" rel="noopener noreferrer">
                 <div className="text-wrapper-4">Weather Station</div>
+                </a>
               </div>
               <div className="div-wrapper">
                 <p className="p">
@@ -112,8 +120,10 @@ export const Index = (): JSX.Element => {
           <div className="frame-3">
             <div className="frame-4">
               <div className="frame-5">
-                <div className="text-wrapper-3">December 2023</div>
+                <div className="text-wrapper-3">December 2022</div>
+                <a href="https://github.com/Backooo/PalletManager" target="_blank" rel="noopener noreferrer">
                 <div className="text-wrapper-4">Pallet Manager</div>
+                </a>
               </div>
               <div className="div-wrapper">
                 <p className="p">
@@ -134,22 +144,23 @@ export const Index = (): JSX.Element => {
           <div className="frame-3">
             <div className="frame-4">
               <div className="frame-5">
-                <div className="text-wrapper-3">November 2022</div>
-                <div className="text-wrapper-4">E-Sharing System</div>
+                <div className="text-wrapper-3">January 2024</div>
+                <a href="https://github.com/Backooo/Death-Stacks" target="_blank" rel="noopener noreferrer">
+                <div className="text-wrapper-4">Death Stacks</div>
+                </a>
               </div>
               <div className="div-wrapper">
                 <p className="crafted-in-java-this">
-                  Crafted in Java, this project develops an E-Sharing System for vehicle rentals, employing interfaces,
-                  enums, encapsulation and inheritance. It models interactions, tariffs, and vehicle states, handling
-                  vehicle availability and user accounts as well as electric vehicles&#39; battery capacity and diverse
-                  rental conditions.
+                  Crafted in Haskell, this project implements the rules for a bot for the Death Stacks board game. Employing functional programming,
+                  version control, and rigorous testing, it models sound logic for the rules of the board game as well as showcasing Haskell's capabilities
+                  in a practical yet educational scenario.
                 </p>
               </div>
             </div>
             <p className="div-2">
               <span className="span">Skills:</span>
               <span className="text-wrapper-5">&nbsp;</span>
-              <span className="text-wrapper-6">Java, OOP</span>
+              <span className="text-wrapper-6">Haskell, Cabal, Git,<br/>Testing</span>
             </p>
           </div>
         </div>
