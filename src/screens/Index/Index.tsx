@@ -677,7 +677,7 @@ export const Index = (): JSX.Element => {
                 <p className="hobbies">
                   A self taught hobby photographer, wannabe series critic and part time bookworm.
                   <br />
-                  I also enjoy going for walks, solving little puzzles and playing video games.
+                  Other than that I enjoy going for walks and puzzling.
                 </p>
               </div>
               <div className="keep-scrolling">
